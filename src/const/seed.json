@@ -1,0 +1,1502 @@
+[
+  {
+    "vacation": [
+      {
+        "id": "724b62cb-9277-45b8-9cf4-206435ced490",
+        "days_taken": 55643,
+        "created_at": "2023-08-06T14:24:03.341Z",
+        "updated_at": "2023-08-06T11:27:49.977Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4955cc37-9e5b-4649-8c10-fdd13662c9a1",
+        "days_taken": 16714,
+        "created_at": "2023-08-07T02:32:43.953Z",
+        "updated_at": "2023-08-06T12:41:55.844Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e41471a-a540-44c8-a5e3-f96d0f276575",
+        "days_taken": 16919,
+        "created_at": "2023-08-07T03:26:49.113Z",
+        "updated_at": "2023-08-07T05:37:14.094Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b878830-dae7-4ad8-b1c9-c5a06fb2aa3f",
+        "days_taken": 11820,
+        "created_at": "2023-08-06T23:08:38.903Z",
+        "updated_at": "2023-08-07T04:04:47.123Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9aae8a2-ab5b-43aa-a148-d5241f41c1ea",
+        "days_taken": 4298,
+        "created_at": "2023-08-06T14:21:06.373Z",
+        "updated_at": "2023-08-06T20:22:21.871Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "c7b98f6d-9035-4fec-9259-25e1b56ce52a",
+        "hours_worked": 51025,
+        "created_at": "2023-08-06T08:40:10.503Z",
+        "updated_at": "2023-08-06T20:55:00.050Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7ea3278c-bf40-4832-b720-0cc7447add0e",
+        "hours_worked": 39019,
+        "created_at": "2023-08-06T22:20:39.941Z",
+        "updated_at": "2023-08-06T08:29:05.002Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "50d63f11-2bcc-43dc-ae34-6f78478103b1",
+        "hours_worked": 40296,
+        "created_at": "2023-08-06T17:05:40.891Z",
+        "updated_at": "2023-08-06T12:58:20.122Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86484e93-3a22-4502-ae72-b0a5e1e569d0",
+        "hours_worked": 28447,
+        "created_at": "2023-08-06T22:38:24.077Z",
+        "updated_at": "2023-08-06T17:48:48.841Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5fd6bfba-be29-4309-be9c-6257a66ed0b8",
+        "hours_worked": 19425,
+        "created_at": "2023-08-06T13:55:38.693Z",
+        "updated_at": "2023-08-06T22:33:34.799Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "e13075cf-8132-4bac-8b58-0f7abe048813",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-07T02:08:49.996Z",
+        "updated_at": "2023-08-07T06:31:27.759Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25269605-22d3-4f9d-86c4-ada05df042b9",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T07:55:40.976Z",
+        "updated_at": "2023-08-06T17:21:39.780Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78519645-9380-40bf-810a-55db87b3ad25",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T14:58:21.432Z",
+        "updated_at": "2023-08-07T06:11:39.560Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e629a8b4-2161-46a4-b08d-be3436c9b70d",
+        "evaluation": "Poor",
+        "created_at": "2023-08-07T00:01:43.757Z",
+        "updated_at": "2023-08-06T17:29:23.514Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53575a7d-5a78-4173-84f6-d34f5e9c4a2d",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T20:17:36.914Z",
+        "updated_at": "2023-08-06T13:37:31.942Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "3ecbf921-ead7-496b-8f61-45b36081d3c7",
+        "salary": 10735,
+        "created_at": "2023-08-07T02:24:41.225Z",
+        "updated_at": "2023-08-06T23:56:10.420Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "256d9c1d-df72-4be6-8a52-81d2633a3172",
+        "salary": 45459,
+        "created_at": "2023-08-06T22:22:41.771Z",
+        "updated_at": "2023-08-06T13:21:56.373Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55f6f7a9-a028-4551-a7fd-23c002fd5e1f",
+        "salary": 2099,
+        "created_at": "2023-08-07T05:33:17.459Z",
+        "updated_at": "2023-08-06T12:47:44.997Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df038228-3039-4db4-87ff-9761d2338eff",
+        "salary": 67232,
+        "created_at": "2023-08-06T16:12:26.831Z",
+        "updated_at": "2023-08-06T08:07:49.442Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef883000-402a-4b9c-97f8-79192c672b3e",
+        "salary": 68773,
+        "created_at": "2023-08-07T01:39:23.297Z",
+        "updated_at": "2023-08-06T18:53:22.200Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "5e2971e8-d631-4c9d-9158-f3b196b31051",
+        "days_taken": 96925,
+        "created_at": "2023-08-07T02:28:54.418Z",
+        "updated_at": "2023-08-07T07:48:54.913Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a34d32c6-1edf-4690-8b04-117e93793dc1",
+        "days_taken": 25328,
+        "created_at": "2023-08-06T17:15:27.606Z",
+        "updated_at": "2023-08-06T10:51:54.596Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3b434c7-b81e-4d06-bd1f-b3da52ccedce",
+        "days_taken": 73566,
+        "created_at": "2023-08-07T05:50:35.865Z",
+        "updated_at": "2023-08-06T15:14:47.080Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b636f394-ede5-44f7-9f86-32ffe14053a8",
+        "days_taken": 70615,
+        "created_at": "2023-08-06T22:21:35.510Z",
+        "updated_at": "2023-08-06T22:20:21.422Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7e0ff6b-40a1-44b1-9c71-e48768b242c6",
+        "days_taken": 22652,
+        "created_at": "2023-08-06T17:44:09.481Z",
+        "updated_at": "2023-08-07T07:51:16.867Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "3923ae47-f275-4997-9d2e-52e160b6b709",
+        "hours_worked": 97804,
+        "created_at": "2023-08-06T14:56:48.792Z",
+        "updated_at": "2023-08-06T08:08:13.430Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30f77461-7051-4dbf-ac1c-da61824551d8",
+        "hours_worked": 98901,
+        "created_at": "2023-08-06T20:03:58.262Z",
+        "updated_at": "2023-08-07T07:48:44.307Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a63ac02-a04f-4977-945e-17e675e9436a",
+        "hours_worked": 4081,
+        "created_at": "2023-08-06T19:09:17.801Z",
+        "updated_at": "2023-08-06T23:33:38.227Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31d207ee-37d1-4c4e-845c-dcfa7c7ef8ca",
+        "hours_worked": 59597,
+        "created_at": "2023-08-07T06:03:18.991Z",
+        "updated_at": "2023-08-06T16:44:31.534Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad15062c-4fa5-4015-bae1-315d7e20b972",
+        "hours_worked": 57543,
+        "created_at": "2023-08-06T20:55:17.207Z",
+        "updated_at": "2023-08-06T15:27:42.639Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "72b487c8-d289-4d35-9913-8801dc0e664a",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T16:03:49.522Z",
+        "updated_at": "2023-08-06T09:32:42.350Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76eea2c3-03fa-4db0-b1e0-55b47adfc3c1",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T02:08:06.152Z",
+        "updated_at": "2023-08-07T04:54:16.546Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "78f0d3fa-e1db-4bdf-a61e-3d82939605fc",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T09:22:18.692Z",
+        "updated_at": "2023-08-06T11:54:36.429Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a312d211-9411-4286-8435-575d932dc427",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T12:52:44.658Z",
+        "updated_at": "2023-08-07T04:32:46.549Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4dba3efb-6114-4027-87b3-d634a7cb0689",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T14:20:38.261Z",
+        "updated_at": "2023-08-07T07:20:52.868Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "91a14605-2029-44a7-b732-f7e53ba324e0",
+        "salary": 48579,
+        "created_at": "2023-08-06T18:37:16.416Z",
+        "updated_at": "2023-08-06T17:03:13.826Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "04896ae5-3fdf-466e-83fb-ec465f22d573",
+        "salary": 13706,
+        "created_at": "2023-08-06T09:27:14.389Z",
+        "updated_at": "2023-08-06T11:41:13.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c296a4ec-35a0-4223-9167-5e375b89bd52",
+        "salary": 65553,
+        "created_at": "2023-08-06T19:47:09.080Z",
+        "updated_at": "2023-08-06T13:36:10.349Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30ba7703-55b7-48c5-ad23-7e6c9e2e4500",
+        "salary": 27015,
+        "created_at": "2023-08-06T19:06:30.001Z",
+        "updated_at": "2023-08-06T17:56:58.116Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c004a17e-1587-4f40-b2fe-210deef4a77b",
+        "salary": 52076,
+        "created_at": "2023-08-06T20:22:33.201Z",
+        "updated_at": "2023-08-07T03:34:38.364Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "207b2012-df8a-4312-a1f7-eeab139b5fb1",
+        "days_taken": 66793,
+        "created_at": "2023-08-06T19:46:57.731Z",
+        "updated_at": "2023-08-06T18:02:46.797Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf7044a9-5e0a-43a4-a9bd-d6c3e252f50a",
+        "days_taken": 63100,
+        "created_at": "2023-08-06T17:29:13.694Z",
+        "updated_at": "2023-08-06T16:02:26.254Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "343baae9-fd86-4312-b4b6-434551940a4d",
+        "days_taken": 92511,
+        "created_at": "2023-08-07T04:06:55.323Z",
+        "updated_at": "2023-08-06T14:56:01.273Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e7092ee-8117-4e38-9119-9419f1422aee",
+        "days_taken": 40257,
+        "created_at": "2023-08-07T05:30:02.170Z",
+        "updated_at": "2023-08-06T18:02:31.883Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ad5ab5e-f939-4b2d-bab8-fa583d6e3b71",
+        "days_taken": 56301,
+        "created_at": "2023-08-07T06:04:16.125Z",
+        "updated_at": "2023-08-07T06:03:54.268Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "dbd5ce6c-2d8a-4cce-aea8-1a0e1d5d39b3",
+        "hours_worked": 23414,
+        "created_at": "2023-08-06T19:17:01.690Z",
+        "updated_at": "2023-08-07T04:25:39.687Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cea5af92-135e-40c4-a114-a32efa3a965b",
+        "hours_worked": 71130,
+        "created_at": "2023-08-07T00:53:39.485Z",
+        "updated_at": "2023-08-06T13:00:46.355Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19b961a8-d207-40bc-a998-8c2988f3ae33",
+        "hours_worked": 73506,
+        "created_at": "2023-08-07T02:01:43.016Z",
+        "updated_at": "2023-08-07T02:01:42.829Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd51422e-fcf4-4891-a39a-022fd1ca8c74",
+        "hours_worked": 89861,
+        "created_at": "2023-08-06T23:55:40.185Z",
+        "updated_at": "2023-08-06T21:55:27.330Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09e7c47c-ed25-4e4c-a075-3461293c8c78",
+        "hours_worked": 71414,
+        "created_at": "2023-08-07T01:51:57.882Z",
+        "updated_at": "2023-08-07T07:52:08.448Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "7fdea998-7403-4aab-ab74-25de5eb069c6",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T20:43:20.962Z",
+        "updated_at": "2023-08-07T03:05:40.367Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b283ce7f-c6f0-4298-a753-f1a1e0fb9b5e",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T05:12:14.710Z",
+        "updated_at": "2023-08-07T01:02:33.431Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f4b7393-cdf4-4698-bf88-3bd6e511ec44",
+        "evaluation": "Average",
+        "created_at": "2023-08-07T03:32:43.194Z",
+        "updated_at": "2023-08-06T13:29:25.245Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6c74706-1123-4aa1-bcf5-fa68c6402cb6",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T17:39:21.949Z",
+        "updated_at": "2023-08-06T11:24:56.871Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6400be03-b3f0-485e-829c-d6669cb2b39c",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T22:01:15.724Z",
+        "updated_at": "2023-08-07T05:55:39.315Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "5b4820c4-1bde-468b-8bb0-d06c2e031ab1",
+        "salary": 76470,
+        "created_at": "2023-08-07T07:37:05.348Z",
+        "updated_at": "2023-08-06T12:22:01.196Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b482c37-1496-44bf-a29e-220312b4def6",
+        "salary": 26768,
+        "created_at": "2023-08-07T00:52:00.239Z",
+        "updated_at": "2023-08-07T04:38:33.181Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5981992-77b1-487d-8441-10457c839703",
+        "salary": 73655,
+        "created_at": "2023-08-06T21:46:29.904Z",
+        "updated_at": "2023-08-07T03:32:05.958Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69410f71-84c5-4f98-b183-29df6f829337",
+        "salary": 64856,
+        "created_at": "2023-08-06T13:37:16.433Z",
+        "updated_at": "2023-08-06T14:26:29.630Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d280ee2-7880-4886-8fcf-6047cd48d0d2",
+        "salary": 84501,
+        "created_at": "2023-08-06T17:50:22.837Z",
+        "updated_at": "2023-08-07T04:57:39.103Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "70d37d67-6471-4f62-b303-c5b7dee7ec6c",
+        "days_taken": 75461,
+        "created_at": "2023-08-07T02:43:03.562Z",
+        "updated_at": "2023-08-06T10:50:11.181Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c6613ab-e6ba-4a83-837b-16f54cce1f38",
+        "days_taken": 71594,
+        "created_at": "2023-08-06T12:20:17.328Z",
+        "updated_at": "2023-08-06T15:06:16.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d458b782-8727-49be-8f3a-92249bff550e",
+        "days_taken": 46030,
+        "created_at": "2023-08-06T22:12:02.333Z",
+        "updated_at": "2023-08-07T07:33:46.320Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd4c10df-9f66-40cb-b903-4fe887cfd3da",
+        "days_taken": 89742,
+        "created_at": "2023-08-06T21:21:14.966Z",
+        "updated_at": "2023-08-06T22:31:04.328Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07fbba5a-1630-4fff-a2ed-05153c22255e",
+        "days_taken": 30703,
+        "created_at": "2023-08-06T17:14:34.012Z",
+        "updated_at": "2023-08-06T19:32:39.767Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "d66b7195-456a-4946-a82c-39f27afb057e",
+        "hours_worked": 79539,
+        "created_at": "2023-08-07T03:10:15.302Z",
+        "updated_at": "2023-08-06T12:00:09.664Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a85999f-dc8a-4664-9a7f-352f3e88a575",
+        "hours_worked": 85286,
+        "created_at": "2023-08-07T07:38:40.925Z",
+        "updated_at": "2023-08-06T10:01:42.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e03a401c-927d-4368-8515-7bd495d681ba",
+        "hours_worked": 11017,
+        "created_at": "2023-08-06T16:52:56.019Z",
+        "updated_at": "2023-08-06T19:50:59.631Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34234216-56d4-477f-8de9-93c8aa85a083",
+        "hours_worked": 59839,
+        "created_at": "2023-08-06T15:16:50.598Z",
+        "updated_at": "2023-08-06T17:27:09.197Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43e71f47-cc4a-4a5d-9bf5-48af8f6856bb",
+        "hours_worked": 10515,
+        "created_at": "2023-08-07T01:28:59.036Z",
+        "updated_at": "2023-08-06T19:06:53.128Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "12b54f1c-d634-402c-81aa-0446d2c64caa",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-07T06:44:17.949Z",
+        "updated_at": "2023-08-06T18:18:05.743Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "449c4660-cffa-46d3-ab02-e20b6409467d",
+        "evaluation": "Good",
+        "created_at": "2023-08-06T20:53:49.182Z",
+        "updated_at": "2023-08-07T02:06:49.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70c4d655-d8e9-411d-83b3-c8fd02a75427",
+        "evaluation": "Average",
+        "created_at": "2023-08-07T03:02:17.747Z",
+        "updated_at": "2023-08-06T20:55:48.166Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "815d1793-39be-4fd0-90ef-6c774f481801",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T20:44:59.289Z",
+        "updated_at": "2023-08-07T00:04:51.271Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2a000d6-028b-4d59-9a61-38b272596c58",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T11:08:29.745Z",
+        "updated_at": "2023-08-07T00:19:10.028Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "c3cee064-58ce-4442-b9a7-337548ea2690",
+        "salary": 53810,
+        "created_at": "2023-08-07T01:47:19.511Z",
+        "updated_at": "2023-08-06T15:19:55.993Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f50ede41-226f-4af7-b631-4c62c8e5209b",
+        "salary": 82973,
+        "created_at": "2023-08-06T12:14:13.897Z",
+        "updated_at": "2023-08-06T13:50:06.310Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7b444516-2cfb-4511-a489-0488ed331d03",
+        "salary": 52660,
+        "created_at": "2023-08-07T00:20:34.436Z",
+        "updated_at": "2023-08-07T05:53:57.563Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "447282b9-011b-40d0-8414-6b329a10cebf",
+        "salary": 8945,
+        "created_at": "2023-08-06T10:07:55.385Z",
+        "updated_at": "2023-08-06T14:19:09.363Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ddb31cf0-d202-4f29-bb3a-7bd238c4f0d4",
+        "salary": 32966,
+        "created_at": "2023-08-06T19:20:18.967Z",
+        "updated_at": "2023-08-06T13:47:42.506Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "19f82959-6570-4570-add7-abb80ce89b5b",
+        "days_taken": 88324,
+        "created_at": "2023-08-06T13:54:00.666Z",
+        "updated_at": "2023-08-06T08:17:22.604Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62c8fe4c-ea51-459e-9980-ed6960d89d4d",
+        "days_taken": 74051,
+        "created_at": "2023-08-06T22:20:22.429Z",
+        "updated_at": "2023-08-06T11:00:07.961Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9c9d2af-27ae-4059-a6d8-0208255153bc",
+        "days_taken": 46487,
+        "created_at": "2023-08-06T18:01:58.649Z",
+        "updated_at": "2023-08-06T17:43:32.548Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef6e86da-bb4d-4e80-b5ad-0f5491ec9ab1",
+        "days_taken": 54880,
+        "created_at": "2023-08-07T01:59:45.580Z",
+        "updated_at": "2023-08-06T17:43:36.556Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4c5a440-f94a-4ff8-adae-cad541de88a5",
+        "days_taken": 5632,
+        "created_at": "2023-08-07T06:59:13.559Z",
+        "updated_at": "2023-08-07T01:26:35.615Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "01c3569d-71b0-4077-b039-903c851ceaaf",
+        "hours_worked": 18027,
+        "created_at": "2023-08-06T16:46:53.767Z",
+        "updated_at": "2023-08-06T23:04:40.805Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e3d85d23-b6ef-4a0d-8bd1-699fbfd7cb84",
+        "hours_worked": 53063,
+        "created_at": "2023-08-07T00:38:46.011Z",
+        "updated_at": "2023-08-06T15:33:10.221Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d028e79-7730-4163-bf33-f4a9047ff5c3",
+        "hours_worked": 63812,
+        "created_at": "2023-08-06T21:31:48.859Z",
+        "updated_at": "2023-08-06T21:04:06.821Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2bfa811a-ba01-496b-b084-ef01d54bc8f0",
+        "hours_worked": 46318,
+        "created_at": "2023-08-06T09:57:48.213Z",
+        "updated_at": "2023-08-07T04:22:51.546Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "330bba49-9530-4d60-93c0-9bb33df18844",
+        "hours_worked": 92260,
+        "created_at": "2023-08-06T08:48:29.814Z",
+        "updated_at": "2023-08-06T13:25:45.642Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "bb0fb3f3-272c-4551-b075-a5ec818d6f78",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T19:51:24.571Z",
+        "updated_at": "2023-08-06T18:02:49.452Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f752bb5a-ef41-4bc2-87ff-86409677a01f",
+        "evaluation": "Good",
+        "created_at": "2023-08-06T23:35:59.644Z",
+        "updated_at": "2023-08-07T06:48:24.543Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7cdcc0f2-5556-4f3e-9bae-0237eaa19308",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T13:45:21.289Z",
+        "updated_at": "2023-08-06T16:33:18.846Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e60d5ad-be50-41e1-9a6e-2e1f06e3bfeb",
+        "evaluation": "Poor",
+        "created_at": "2023-08-07T01:05:16.773Z",
+        "updated_at": "2023-08-07T02:25:55.994Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec02935b-6df2-436a-b32f-5f44252eb596",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T19:10:56.762Z",
+        "updated_at": "2023-08-06T10:18:32.439Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "b151d19d-385c-4428-bc8f-1bd5b510caba",
+        "salary": 42162,
+        "created_at": "2023-08-06T16:40:51.603Z",
+        "updated_at": "2023-08-06T20:48:32.686Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de261f96-7495-49a9-a905-9b13150d8b35",
+        "salary": 85087,
+        "created_at": "2023-08-06T17:09:51.855Z",
+        "updated_at": "2023-08-06T11:55:29.781Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "561b0732-bbff-466b-967d-f61b8cc8aed5",
+        "salary": 77289,
+        "created_at": "2023-08-06T09:54:35.903Z",
+        "updated_at": "2023-08-06T16:19:53.648Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c00bc31-4ae0-4935-ad4b-541697fc1784",
+        "salary": 57817,
+        "created_at": "2023-08-06T13:26:37.841Z",
+        "updated_at": "2023-08-07T04:57:03.308Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7644261a-b286-4ba0-b38d-2538613e6c53",
+        "salary": 31986,
+        "created_at": "2023-08-06T13:35:09.335Z",
+        "updated_at": "2023-08-06T22:30:28.338Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "f0f41c54-78ff-4d27-9f1c-7175c20b3a8b",
+        "days_taken": 39804,
+        "created_at": "2023-08-06T13:08:57.807Z",
+        "updated_at": "2023-08-07T01:42:36.935Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34597cd2-fe68-42a5-b1b6-0869d1e70014",
+        "days_taken": 40388,
+        "created_at": "2023-08-07T07:49:40.782Z",
+        "updated_at": "2023-08-07T02:26:13.712Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eccdc143-a80a-448e-bab3-054cca4ef6a7",
+        "days_taken": 2044,
+        "created_at": "2023-08-06T22:38:49.543Z",
+        "updated_at": "2023-08-07T03:57:30.021Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa823963-88ba-441a-8189-5ee0a850e9c4",
+        "days_taken": 17676,
+        "created_at": "2023-08-06T16:22:48.556Z",
+        "updated_at": "2023-08-06T22:36:18.818Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "959fc74b-f1f3-425b-b46f-a16a0d613ea0",
+        "days_taken": 55175,
+        "created_at": "2023-08-06T14:22:49.944Z",
+        "updated_at": "2023-08-07T06:30:45.514Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "ea249efb-3082-4f66-86ff-b1d3910f87db",
+        "hours_worked": 5333,
+        "created_at": "2023-08-06T15:42:22.358Z",
+        "updated_at": "2023-08-07T03:04:47.042Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60f7311d-849d-414b-8aee-742659aff5d8",
+        "hours_worked": 68369,
+        "created_at": "2023-08-06T19:31:58.096Z",
+        "updated_at": "2023-08-06T12:22:05.339Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b837df5e-6ead-46d9-8996-9f8a758e20c2",
+        "hours_worked": 93856,
+        "created_at": "2023-08-07T00:49:40.038Z",
+        "updated_at": "2023-08-07T07:25:29.858Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "909eeec0-2f74-4543-b80f-518f59992379",
+        "hours_worked": 5093,
+        "created_at": "2023-08-07T05:52:57.004Z",
+        "updated_at": "2023-08-06T14:43:48.575Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c4fe32b1-3eeb-4cbd-a591-19b4f9cea723",
+        "hours_worked": 41817,
+        "created_at": "2023-08-07T00:31:12.778Z",
+        "updated_at": "2023-08-07T02:38:50.661Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "9e0c7cb4-18df-4aa7-ba05-9afbb3806dd9",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T11:13:32.229Z",
+        "updated_at": "2023-08-06T22:34:13.646Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "265eedc5-8a55-48ad-a63b-7985f384bf4c",
+        "evaluation": "Good",
+        "created_at": "2023-08-06T20:09:28.311Z",
+        "updated_at": "2023-08-07T00:17:20.523Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d47d6c61-ee66-48dc-bf6d-35f1ff5d4016",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T11:00:04.320Z",
+        "updated_at": "2023-08-07T03:52:46.536Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f67f389-11ae-41a2-81cb-910f2a9f8aa4",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T20:45:21.849Z",
+        "updated_at": "2023-08-06T13:56:58.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ed0c432-b501-431d-ae20-143f3a810917",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T16:30:20.365Z",
+        "updated_at": "2023-08-06T08:57:00.097Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "8aa431d0-4ee1-4e4a-b287-4258f7b7af60",
+        "salary": 32597,
+        "created_at": "2023-08-06T23:06:04.417Z",
+        "updated_at": "2023-08-07T04:00:12.019Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f38fccb-5122-4cd0-8991-8d402df96d59",
+        "salary": 9849,
+        "created_at": "2023-08-06T14:17:40.723Z",
+        "updated_at": "2023-08-06T10:09:46.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "826915d9-82ea-4c1b-87a7-dce9dba07a08",
+        "salary": 48726,
+        "created_at": "2023-08-06T12:01:17.421Z",
+        "updated_at": "2023-08-07T01:05:47.947Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5cd7760-58d1-45cb-8be5-6c86c248f03f",
+        "salary": 5336,
+        "created_at": "2023-08-07T03:41:00.866Z",
+        "updated_at": "2023-08-06T16:49:46.610Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e59b04c3-8d80-42ef-b3a5-26918d5d989f",
+        "salary": 27581,
+        "created_at": "2023-08-07T05:38:09.956Z",
+        "updated_at": "2023-08-06T17:07:52.063Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "22640d93-5c77-40af-bd0e-344c2817726a",
+        "days_taken": 73924,
+        "created_at": "2023-08-06T18:09:48.835Z",
+        "updated_at": "2023-08-06T10:33:29.504Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f2416d1-3665-4c24-8f28-5d1ca2126e8d",
+        "days_taken": 71810,
+        "created_at": "2023-08-06T21:25:41.217Z",
+        "updated_at": "2023-08-06T09:30:09.059Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0571803-badf-47ab-8f78-d978f08dd462",
+        "days_taken": 33727,
+        "created_at": "2023-08-06T20:12:17.739Z",
+        "updated_at": "2023-08-06T18:59:37.247Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "edd98d08-07df-4bb9-8aa7-ea790d79f1e8",
+        "days_taken": 3646,
+        "created_at": "2023-08-06T21:17:49.640Z",
+        "updated_at": "2023-08-06T19:25:43.339Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e065a35a-0671-44d7-9c55-0ae1e99b2dcf",
+        "days_taken": 7898,
+        "created_at": "2023-08-07T04:35:48.904Z",
+        "updated_at": "2023-08-06T16:36:36.289Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "6b7e5425-b748-46c1-9341-b7debe0173e5",
+        "hours_worked": 75191,
+        "created_at": "2023-08-06T16:05:57.419Z",
+        "updated_at": "2023-08-06T16:17:13.589Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "927a4559-e0b5-4fc8-8a06-9b675ab8b122",
+        "hours_worked": 32202,
+        "created_at": "2023-08-06T23:45:50.637Z",
+        "updated_at": "2023-08-06T20:22:20.900Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e80747e4-606b-46d0-8bad-47ebcdca2cb3",
+        "hours_worked": 61371,
+        "created_at": "2023-08-07T00:41:04.909Z",
+        "updated_at": "2023-08-06T09:08:52.635Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2104614-ac98-4afe-ac4b-109c6dbfb9bf",
+        "hours_worked": 77746,
+        "created_at": "2023-08-06T09:25:24.712Z",
+        "updated_at": "2023-08-06T14:29:04.553Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "208912b3-7abc-4d40-9474-561ef22b9e52",
+        "hours_worked": 34906,
+        "created_at": "2023-08-06T22:07:57.493Z",
+        "updated_at": "2023-08-06T09:34:19.341Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "558a8d47-2329-464b-9e79-6c9c92fa5df3",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T13:54:04.385Z",
+        "updated_at": "2023-08-07T03:27:45.391Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31dc9a11-4602-442e-ad29-0f8814f1cdc8",
+        "evaluation": "Good",
+        "created_at": "2023-08-06T19:05:46.129Z",
+        "updated_at": "2023-08-07T07:58:37.775Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "88de4154-2faa-4f7b-9923-5ae1e814c032",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T19:50:17.273Z",
+        "updated_at": "2023-08-06T14:12:16.334Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44eb79c2-3a10-46b7-afba-877d930e456e",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T14:23:18.512Z",
+        "updated_at": "2023-08-06T17:22:22.683Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f23c0650-aca9-4845-bf48-7ea0aa285575",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T20:19:26.588Z",
+        "updated_at": "2023-08-06T18:24:25.621Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "04512124-1720-4634-821d-768a13e59814",
+        "salary": 85991,
+        "created_at": "2023-08-07T00:39:23.022Z",
+        "updated_at": "2023-08-06T15:00:58.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05f2ec18-924a-4c0b-85d7-1c8ade8810c6",
+        "salary": 73275,
+        "created_at": "2023-08-06T21:31:56.026Z",
+        "updated_at": "2023-08-06T15:13:36.260Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55994b9b-4e91-400a-a66e-6b47a2b656d9",
+        "salary": 30405,
+        "created_at": "2023-08-07T00:53:06.413Z",
+        "updated_at": "2023-08-06T18:36:18.819Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a56627e0-6025-4492-9f87-b1804a6f1591",
+        "salary": 92261,
+        "created_at": "2023-08-06T19:28:16.002Z",
+        "updated_at": "2023-08-06T18:52:23.808Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de91dc88-fe6c-4468-bcd8-4778a230d13f",
+        "salary": 26921,
+        "created_at": "2023-08-07T06:45:49.405Z",
+        "updated_at": "2023-08-06T10:42:33.108Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "1269534a-cebf-48b6-b799-3aa1468835a3",
+        "days_taken": 11982,
+        "created_at": "2023-08-07T05:41:51.044Z",
+        "updated_at": "2023-08-06T17:42:45.598Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68abc1e7-0507-4c32-b9c2-1d9d378e8560",
+        "days_taken": 15793,
+        "created_at": "2023-08-06T11:04:38.467Z",
+        "updated_at": "2023-08-06T21:04:04.376Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2081a680-5aec-4aff-939d-d8403db9ccab",
+        "days_taken": 48398,
+        "created_at": "2023-08-07T05:57:28.478Z",
+        "updated_at": "2023-08-07T04:54:00.880Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9ac0038-3872-4a15-ad6d-7f42486093fa",
+        "days_taken": 2957,
+        "created_at": "2023-08-07T01:30:51.689Z",
+        "updated_at": "2023-08-06T21:14:44.424Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76e00ce1-4f51-4646-b246-c606d62fea8a",
+        "days_taken": 33791,
+        "created_at": "2023-08-06T21:33:13.868Z",
+        "updated_at": "2023-08-06T17:03:37.363Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "10c0f37b-4a0a-4561-8997-d8d5578523c1",
+        "hours_worked": 23813,
+        "created_at": "2023-08-07T01:27:51.333Z",
+        "updated_at": "2023-08-06T20:01:56.155Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5373e663-be0d-46dd-9bb1-4498c0290e0e",
+        "hours_worked": 96950,
+        "created_at": "2023-08-06T10:35:14.059Z",
+        "updated_at": "2023-08-06T22:37:01.152Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd63cded-dce8-4c25-a746-15e6f5dd3592",
+        "hours_worked": 49779,
+        "created_at": "2023-08-06T21:52:26.010Z",
+        "updated_at": "2023-08-07T07:21:26.709Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f139ed78-6e84-4718-beee-dfbe52afda17",
+        "hours_worked": 83060,
+        "created_at": "2023-08-06T19:37:29.514Z",
+        "updated_at": "2023-08-06T23:01:57.516Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "09bb4739-183d-4962-a891-cd24799cf742",
+        "hours_worked": 6770,
+        "created_at": "2023-08-07T02:45:52.188Z",
+        "updated_at": "2023-08-06T14:27:54.169Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "fbb8f1b8-40f7-44cf-b176-0761b26e28a2",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T15:49:36.695Z",
+        "updated_at": "2023-08-06T12:52:39.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02acaec4-b6b1-4761-8b68-7b8e00ad3cd3",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T03:44:12.598Z",
+        "updated_at": "2023-08-06T16:19:51.065Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6a4a738-2141-4b7e-ab30-b7c599aec508",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T17:47:07.052Z",
+        "updated_at": "2023-08-06T12:30:20.237Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40d7fe1d-0508-4768-a7c8-fb48fbc2367a",
+        "evaluation": "Poor",
+        "created_at": "2023-08-07T00:01:58.825Z",
+        "updated_at": "2023-08-07T06:35:11.977Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b52ed02f-f966-4f80-a598-2782c157d483",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T16:53:02.159Z",
+        "updated_at": "2023-08-06T12:09:03.482Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "069b70e3-3c77-4588-b778-f7fc3141e606",
+        "salary": 85391,
+        "created_at": "2023-08-06T23:00:03.795Z",
+        "updated_at": "2023-08-06T21:58:49.698Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06ad0f48-07be-4262-8dae-51fc0a887a78",
+        "salary": 39153,
+        "created_at": "2023-08-06T08:33:46.017Z",
+        "updated_at": "2023-08-06T17:41:36.546Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a34cbb74-8617-4309-80d1-276cd95c4e8c",
+        "salary": 75731,
+        "created_at": "2023-08-07T00:41:59.342Z",
+        "updated_at": "2023-08-07T01:01:42.496Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bec4e4b5-5d9f-4c0c-bb16-46c619c9c763",
+        "salary": 79952,
+        "created_at": "2023-08-06T11:53:04.559Z",
+        "updated_at": "2023-08-06T22:00:58.198Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3708e9e8-91c3-4736-91d2-9a8929d68a5d",
+        "salary": 46346,
+        "created_at": "2023-08-06T08:24:36.477Z",
+        "updated_at": "2023-08-07T07:36:58.664Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "4f02db73-e47a-4e2b-9cc5-2458f9e5cec9",
+        "days_taken": 30853,
+        "created_at": "2023-08-07T05:58:20.483Z",
+        "updated_at": "2023-08-07T02:02:30.816Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7b251c0-e538-421d-a834-09a876cd197b",
+        "days_taken": 94538,
+        "created_at": "2023-08-07T07:51:21.927Z",
+        "updated_at": "2023-08-06T18:06:41.176Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d03cefa7-57b8-462d-96ee-e16a43696019",
+        "days_taken": 66068,
+        "created_at": "2023-08-07T07:51:32.157Z",
+        "updated_at": "2023-08-06T14:48:17.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "900e150a-7bb0-4d79-be93-c7c0a361b365",
+        "days_taken": 19672,
+        "created_at": "2023-08-07T04:43:53.166Z",
+        "updated_at": "2023-08-06T17:12:32.620Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38d74f02-c384-49ba-98d3-f23b88abef0c",
+        "days_taken": 99230,
+        "created_at": "2023-08-06T23:09:27.826Z",
+        "updated_at": "2023-08-06T15:37:04.231Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "962b7a1c-ddb3-4f38-8ab1-b26601dc21f6",
+        "hours_worked": 95368,
+        "created_at": "2023-08-06T22:23:26.545Z",
+        "updated_at": "2023-08-07T03:40:24.381Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2e6788e-5f83-4484-9dc4-c19505304ad0",
+        "hours_worked": 63427,
+        "created_at": "2023-08-07T07:56:57.255Z",
+        "updated_at": "2023-08-06T17:43:38.141Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "40785866-d46e-4b29-ac64-466d9bd6ff15",
+        "hours_worked": 68925,
+        "created_at": "2023-08-06T12:19:48.016Z",
+        "updated_at": "2023-08-06T22:26:54.043Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e724e0de-3f48-4e5e-8b90-4909d9e2d054",
+        "hours_worked": 49802,
+        "created_at": "2023-08-06T23:05:00.707Z",
+        "updated_at": "2023-08-06T09:43:20.661Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "03c6d3a1-e6a5-4340-8ffb-5be6ba399fcf",
+        "hours_worked": 30309,
+        "created_at": "2023-08-07T06:58:35.298Z",
+        "updated_at": "2023-08-06T08:06:01.042Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "36fadddb-7ac3-4cbf-b54d-08154fc95f1c",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T23:20:44.669Z",
+        "updated_at": "2023-08-07T00:14:55.433Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8598229d-d008-460e-9b23-28f228aef260",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T00:53:19.296Z",
+        "updated_at": "2023-08-06T23:56:16.415Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a651d654-0dc1-4bab-ab2a-e8daf190abca",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T23:26:30.319Z",
+        "updated_at": "2023-08-07T03:18:16.568Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "222e9e8f-fc3e-48b6-8f09-23d704c3810b",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T08:35:57.340Z",
+        "updated_at": "2023-08-06T16:54:34.129Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be592837-eca1-4cf8-957e-b534cd702d5b",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T11:41:54.224Z",
+        "updated_at": "2023-08-06T08:54:25.230Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "62e2909d-83e2-4ad2-8a51-3cc834a3cc6e",
+        "salary": 49412,
+        "created_at": "2023-08-07T06:13:38.498Z",
+        "updated_at": "2023-08-07T02:33:01.200Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "235c9f65-a66a-4a0a-a6ac-79bd99e53872",
+        "salary": 93894,
+        "created_at": "2023-08-06T15:51:53.405Z",
+        "updated_at": "2023-08-06T23:20:32.170Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c71ad9de-df0c-4536-96c3-70e3f335cb79",
+        "salary": 56493,
+        "created_at": "2023-08-06T22:11:36.073Z",
+        "updated_at": "2023-08-06T14:00:18.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f310110-63eb-4389-93b1-ff65c083b009",
+        "salary": 61859,
+        "created_at": "2023-08-07T01:43:58.730Z",
+        "updated_at": "2023-08-06T18:50:55.998Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70bcbbca-e444-4086-94aa-d925b4639ef0",
+        "salary": 97809,
+        "created_at": "2023-08-06T13:43:42.408Z",
+        "updated_at": "2023-08-06T14:22:13.801Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "vacation": [
+      {
+        "id": "b1c83dc6-f43e-4975-9731-730501d308ac",
+        "days_taken": 97978,
+        "created_at": "2023-08-06T08:40:05.501Z",
+        "updated_at": "2023-08-06T12:25:28.881Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f34eec02-26f6-4d8f-b784-3e4ebc0ef5fe",
+        "days_taken": 77519,
+        "created_at": "2023-08-06T15:30:10.498Z",
+        "updated_at": "2023-08-07T03:02:15.303Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92946f54-c35c-4710-ba4b-9e01674ba0a3",
+        "days_taken": 10295,
+        "created_at": "2023-08-06T12:18:44.535Z",
+        "updated_at": "2023-08-06T19:31:31.895Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f0d6b4e4-5af9-4dd1-afcd-5d58c84ee742",
+        "days_taken": 32523,
+        "created_at": "2023-08-06T17:29:14.384Z",
+        "updated_at": "2023-08-06T21:51:12.683Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d79aba8d-f1ba-4888-a621-6fc3c84df842",
+        "days_taken": 13638,
+        "created_at": "2023-08-07T01:57:56.809Z",
+        "updated_at": "2023-08-06T21:14:58.386Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "time_tracking": [
+      {
+        "id": "9ef4c6b6-c132-45a6-a5e2-34b21543d568",
+        "hours_worked": 80400,
+        "created_at": "2023-08-07T06:00:07.667Z",
+        "updated_at": "2023-08-06T23:27:44.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "250a5dfe-5f5f-490c-86e6-b3db99e2211c",
+        "hours_worked": 3628,
+        "created_at": "2023-08-06T19:48:48.748Z",
+        "updated_at": "2023-08-06T19:45:31.396Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9bda56b1-9c53-4c72-8c25-42e85f418908",
+        "hours_worked": 34470,
+        "created_at": "2023-08-07T02:24:44.390Z",
+        "updated_at": "2023-08-06T10:07:55.890Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d9584f5b-8801-44b9-b899-0630cac75e87",
+        "hours_worked": 63912,
+        "created_at": "2023-08-06T09:44:02.725Z",
+        "updated_at": "2023-08-06T10:50:45.684Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12181602-3cbf-4c0a-af5b-0b5b34d97aa7",
+        "hours_worked": 9595,
+        "created_at": "2023-08-06T22:15:45.235Z",
+        "updated_at": "2023-08-06T20:26:41.732Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "performance_evaluation": [
+      {
+        "id": "0def4ec1-55e1-4e38-8cb2-3d2579668409",
+        "evaluation": "Excellent",
+        "created_at": "2023-08-06T19:27:59.128Z",
+        "updated_at": "2023-08-07T05:37:31.923Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc416378-4b96-4d4b-a6ec-8508ac8d60e1",
+        "evaluation": "Good",
+        "created_at": "2023-08-07T00:03:10.047Z",
+        "updated_at": "2023-08-07T03:04:55.088Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4aa1858-387b-4965-9aa7-e25fed14b345",
+        "evaluation": "Average",
+        "created_at": "2023-08-06T14:02:13.316Z",
+        "updated_at": "2023-08-06T11:05:17.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0fe26e72-8160-4b80-80a1-74ab7c14ae0b",
+        "evaluation": "Poor",
+        "created_at": "2023-08-06T16:58:36.646Z",
+        "updated_at": "2023-08-06T23:04:38.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "254c78a1-4081-4d54-a160-841f3bdc1521",
+        "evaluation": "Needs Improvement",
+        "created_at": "2023-08-06T12:46:05.470Z",
+        "updated_at": "2023-08-06T21:25:19.411Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "payroll": [
+      {
+        "id": "cb2020d0-3736-451c-a546-b81a74be561d",
+        "salary": 7901,
+        "created_at": "2023-08-06T14:46:48.981Z",
+        "updated_at": "2023-08-06T20:54:55.647Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "463b1fb9-bbf8-4377-9375-00632d92db4e",
+        "salary": 62969,
+        "created_at": "2023-08-06T09:33:09.532Z",
+        "updated_at": "2023-08-06T17:21:24.544Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7fbb345f-cbc3-460b-b213-d80168c30449",
+        "salary": 51230,
+        "created_at": "2023-08-06T18:38:00.708Z",
+        "updated_at": "2023-08-06T11:58:49.238Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "76f6e7e0-3de8-4dd3-b13b-b56e03dfa3d4",
+        "salary": 75774,
+        "created_at": "2023-08-06T22:11:35.245Z",
+        "updated_at": "2023-08-07T00:56:04.856Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e62383d-ec21-4d3d-a954-3d8235b3369e",
+        "salary": 15803,
+        "created_at": "2023-08-07T06:56:11.335Z",
+        "updated_at": "2023-08-06T10:50:41.871Z",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
